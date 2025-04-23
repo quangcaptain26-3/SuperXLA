@@ -1,0 +1,3 @@
+"Loại","Công thức","Đặc điểm"
+"Lý tưởng","H(u,v)={1neˆˊuD(u,v)≤D00ngược lạiH(u,v) = \begin{cases} 1 & \text{nếu } D(u,v) \leq D_0 \\ 0 & \text{ngược lại} \end{cases}H(u,v)={10neˆˊuD(u,v)≤D0ngược lại","Tạo ""ringing artifact"" do cắt đột ngột"
+"Gaussian","H(u,v)=e−D2(u,v)2D02H(u,v) = e^{-\frac{D^2(u,v)}{2D_0^2}}H(u,v)=e−2D02D2(u,v)","Làm mờ mượt, không tạo artifact"
